@@ -1,1 +1,1 @@
-# Visual Question Answering using BLIP pre-trained model!
+# BLIP Pre-trained Model For Visual Question Answering
