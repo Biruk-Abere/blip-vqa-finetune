@@ -93,7 +93,6 @@ In this section, we set up the dataset required for fine tuning our BLIP model f
     
       print("Loss:", loss.item())
 
-# Text Generation From Medical Image 
 
 # Conclusion 
 A successfully trained and inferred medical Visual Question Answering model has the potential to revolutionize healthcare by enhancing diagnostic accuracy, improving efficiency, and expanding access to medical information. However, careful consideration of ethical, privacy, and regulatory issues is crucial to ensure its safe and responsible use in clinical practice.
